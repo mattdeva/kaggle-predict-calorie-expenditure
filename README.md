@@ -2,9 +2,7 @@
 
 Kaggle competition in the playground series which provides straightforward datasets and allows the community to practice machine learning techniques. In this May 2025 competition, the goal was to predict how many calories were burned during a workout. [Competition Overview](https://www.kaggle.com/competitions/playground-series-s5e5/overview)
 
-Kaggle Notebook [My Notebook](https://www.kaggle.com/code/mattneel/calories-expenditure-modeling)
-
-This is not a comprehensive analysis, and there are many things to improve upon.
+Kaggle Notebook [My Notebook](https://www.kaggle.com/code/mattneel/calories-expenditure-modeling). This is not a comprehensive analysis, and there are many things to improve upon.
 
 # Summary
 
