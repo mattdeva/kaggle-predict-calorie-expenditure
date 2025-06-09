@@ -2,7 +2,7 @@
 
 Kaggle competition in the playground series which provides straightforward datasets and allows the community to practice machine learning techniques. In this May 2025 competition, the goal was to predict how many calories were burned during a workout. [Competition Overview](https://www.kaggle.com/competitions/playground-series-s5e5/overview)
 
-Kaggle save to GitHub didn't work. Life's too short to figure it out, and the notebook is public anyway: [My Notebook](https://www.kaggle.com/code/mattneel/calories-expenditure-modeling)
+Kaggle Notebook [My Notebook](https://www.kaggle.com/code/mattneel/calories-expenditure-modeling)
 
 This is not a comprehensive analysis, and there are many things to improve upon. The aim was to demonstrate a very condensed example of my typical lifecycle for these kinds of ad hoc problems. This accomplishes a few goals. The first is a way to share my code with others; there are few modeling projects outside of work that I've done through my employers and so I own very little regarding models. The second goal is to save basic functions that I use often to evaluate models. I found myself having to recreate these each time I wanted to do a Kaggle competition and this is annoying. Now I have some of the basic functions, and in the future, I can build more quickly. Lastly it will act as a good snapshot of my skills in analysis, coding and modeling in the future. Hopefully this is my worst work, and in the future, even in basic analysis, it exceeds what I have done today.
 
